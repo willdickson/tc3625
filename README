@@ -1,0 +1,14 @@
+tc3625
+======
+
+a python API for communication with the TC-36-25 thermoelectric cooler
+temperature controllers via RS232.
+
+Note, this package has not been extensively tested. 
+
+Installation instructions can be found in the INSTALL file.
+
+Author: William Dickson
+
+simple_step may be freely distributed and modified in accordance with
+the GNU Lesser General Public License.
